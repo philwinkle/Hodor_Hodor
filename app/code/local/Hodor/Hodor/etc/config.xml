@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Hodor_Hodor>
+             <version>0.1.0</version>
+        </Hodor_Hodor>
+    </modules>
+    <global>
+        <models>
+            <core>
+                <rewrite>
+                    <translate>Hodor_Hodor_Model_Translate</translate>
+                </rewrite>
+            </core>
+        </models>
+        <helpers>
+            <hodor>
+                <class>Hodor_Hodor_Helper</class>
+            </hodor>
+        </helpers>
+    </global>
+</config>
