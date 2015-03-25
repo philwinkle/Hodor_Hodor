@@ -7,4 +7,4 @@ Hodor
 
 Hodor
 
-<imgr src="http://i.imgur.com/jKLOWCo.png"/>
+<img src="http://i.imgur.com/jKLOWCo.png"/>
