@@ -8,8 +8,8 @@ class Hodor_Hodor_Model_Translate extends Mage_Core_Model_Translate
      * @param   array $args
      * @return  string
      */
-	public function translate($args)
+	public function _getTranslatedString($text, $code)
 	{
-		return 'Hodor ';
+		return Mage::helper('hodor/hodor')->hodorize($text);
 	}
 }
