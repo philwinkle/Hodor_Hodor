@@ -1,11 +1,21 @@
 <?xml version="1.0"?>
+<!--
+/**
+ * Hodor
+ *
+ * Hodor Hodor Hodor Hodor
+ *
+ * @category  Hodor
+ * @package   Hodor_Hodor
+ * @author    Hodor Hodor <hodor@hodor.hodor>
+ * @copyright Hodor
+ */
+-->
 <config>
     <modules>
         <Hodor_Hodor>
              <active>false</active>
              <codePool>local</codePool>
-             <depends>
-             </depends>
         </Hodor_Hodor>
     </modules>
 </config>
