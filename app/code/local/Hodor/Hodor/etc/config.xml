@@ -1,4 +1,16 @@
 <?xml version="1.0"?>
+<!--
+/**
+ * Hodor
+ *
+ * Hodor Hodor Hodor Hodor
+ *
+ * @category  Hodor
+ * @package   Hodor_Hodor
+ * @author    Hodor Hodor <hodor@hodor.hodor>
+ * @copyright Hodor
+ */
+-->
 <config>
     <modules>
         <Hodor_Hodor>
@@ -9,13 +21,13 @@
         <models>
             <core>
                 <rewrite>
-                    <translate>Hodor_Hodor_Model_Translate</translate>
+                    <translate>Hodor_Hodor_Hodor_Hodor_Hodor</translate>
                 </rewrite>
             </core>
         </models>
         <helpers>
             <hodor>
-                <class>Hodor_Hodor_Helper</class>
+                <class>Hodor_Hodor_Hodor</class>
             </hodor>
         </helpers>
     </global>
