@@ -39,6 +39,7 @@ class Hodor_Hodor_Hodor_Hodor
      */
     protected function _hodor($hodor)
     {
+        $hodor = str_replace('%s', 'Hodor', $hodor);
         return preg_replace('{\w+}', 'Hodor', $hodor);
     }
 }
