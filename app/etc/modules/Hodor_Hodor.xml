@@ -14,7 +14,7 @@
 <config>
     <modules>
         <Hodor_Hodor>
-             <active>false</active>
+             <active>true</active>
              <codePool>local</codePool>
         </Hodor_Hodor>
     </modules>
